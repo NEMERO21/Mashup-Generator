@@ -40,7 +40,7 @@ The website utilizes the following packages and technologies:
 
 To set up Mashup locally, follow these steps:
 
-1. Clone the repository from [GitHub](https://github.com/yourusername/mashup).
+1. Clone the repository from [GitHub]([https://github.com/yourusername/mashup](https://github.com/NEMERO21/Mashup-Generator)).
 
 2. Install the required dependencies using pip:
 
